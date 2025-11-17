@@ -1,4 +1,4 @@
-// C++ First Program
+// C++ First Program.
 #include <iostream>
 using namespace std;
 
